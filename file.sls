@@ -1,1 +1,1 @@
-key: test_value
+key: value
