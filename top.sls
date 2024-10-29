@@ -1,3 +1,3 @@
-branch:
+doggy/moggy:
   "*":
     - file
