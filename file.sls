@@ -2,7 +2,7 @@ key: data
 
 foo:
   animals:
-    breed: fido
+    breed: policedog
 
   feature/baz:
     test1: dog
