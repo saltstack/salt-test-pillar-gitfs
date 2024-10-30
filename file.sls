@@ -6,4 +6,4 @@ foo:
 
   feature/baz:
     test1: dog
-    tet2: kat
+    test2: kat
