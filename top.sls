@@ -1,0 +1,3 @@
+dgm_branch:
+  "*":
+    - file
