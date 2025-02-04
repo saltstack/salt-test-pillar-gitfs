@@ -10,4 +10,5 @@ foo:
     test3: horse
 
   fakeit:
-    painting: picasso
+    painting: renoir
+    # painting: picasso
