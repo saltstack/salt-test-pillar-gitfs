@@ -1,3 +1,0 @@
-doggy/moggy:
-  "*":
-    - file
