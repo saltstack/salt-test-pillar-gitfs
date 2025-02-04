@@ -9,3 +9,5 @@ foo:
     test2: kat
     test3: horse
 
+  fakeit:
+    painting: picasso
