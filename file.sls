@@ -7,4 +7,4 @@ foo:
   feature/baz:
     test1: dog
     test2: kat
-    test3: horse
+    test3: mouse
